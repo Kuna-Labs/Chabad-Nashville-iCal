@@ -13,7 +13,7 @@ UID:CSVConvert12baac5b6df810b94a5ddc99e2c62977
 CREATED:20250909T180437Z
 DESCRIPTION:Join us for New Year’s Eve dinner as we celebrate Rosh Hashana.
   Enjoy a four-course dinner complete with round challah\, apple and honey. 
- RSVP by September 15 at chabadnashville.com
+ RSVP by September 15 at https://www.chabadnashville.com/templates/articlecco_cdo/aid/5214501/jewish/Holiday-Dinner.htm
 LAST-MODIFIED:20250909T180506Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -92,3 +92,4 @@ SUMMARY:Rosh Hashana schedule
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
+
